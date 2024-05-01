@@ -7,7 +7,7 @@ The X-NUCLEO-IKS4A1 serves as a supplementary board for motion MEMS and environm
 Numerous examples are available with the X-NUCLEO-IKS4A1 library.
 The following are for IMU LSM6DSV16X
 
-- **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_000-DataLogTerminal:** This application shows how to get data from LSM6DSV16X accelerometer and gyroscope and print them on terminal.
+- **[xNucleo-IKS4A1_LSM6DSV16X_mbedOS_000-DataLogTerminal]{https://github.com/Perlatecnica/xNucleo-IKS4A1_LSM6DSV16X_mbedOS_000-DataLogTerminal}:** This application shows how to get data from LSM6DSV16X accelerometer and gyroscope and print them on terminal.
 - **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_001-SensorFusion:** This application shows how to use LSM6DSV16X Sensor Fusion features for reading quaternions.
 - **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_002-6D_Orientation:** This application shows how to use LSM6DSV16X accelerometer to find out the 6D orientation and display data on a hyperterminal.
 - **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_003-LSM6DSV16X_Qvar_Polling:** This application shows how to use LSM6DSV16X Qvar features in polling mode.
@@ -19,3 +19,5 @@ The following are for IMU LSM6DSV16X
 - **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_009-WakeUpDetection:** This application shows how to detect the wake-up event using the LSM6DSV16X accelerometer.
 - **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_010-MachineLearningCore:** This application shows how to detect the activity using the LSM6DSV16X Machine Learning Core.
 - **xNucleo-IKS4A1_LSM6DS1V6X_mbedOS_011-FIFO_Interrupt:** This application shows how to get accelerometer and gyroscope data from FIFO using interrupt and print them on terminal.
+
+
