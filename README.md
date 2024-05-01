@@ -8,16 +8,16 @@ Numerous examples are available with the X-NUCLEO-IKS4A1 library.
 The following are for IMU LSM6DSV16X
 
 - **[xNucleo-IKS4A1_LSM6DSV16X_mbedOS_000-DataLogTerminal](https://github.com/Perlatecnica/xNucleo-IKS4A1_LSM6DSV16X_mbedOS_000-DataLogTerminal):** This application shows how to get data from LSM6DSV16X accelerometer and gyroscope and print them on terminal.
-- **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_001-SensorFusion:** This application shows how to use LSM6DSV16X Sensor Fusion features for reading quaternions.
-- **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_002-6D_Orientation:** This application shows how to use LSM6DSV16X accelerometer to find out the 6D orientation and display data on a hyperterminal.
-- **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_003-LSM6DSV16X_Qvar_Polling:** This application shows how to use LSM6DSV16X Qvar features in polling mode.
-- **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_004-SingleTap:** This application shows how to detect the single tap event using the LSM6DSV16X accelerometer.
-- **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_005-DoubleTap:** This application shows how to detect the double tap event using the LSM6DSV16X accelerometer.
-- **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_006-TiltDetection:** This application shows how to detect the tilt event using the LSM6DSV16X accelerometer.
-- **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_007-Pedometer:** This application shows how to use LSM6DSV16X accelerometer to count steps.
-- **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_008-FreeFallDetection:** This application shows how to detect the free fall event using the LSM6DSV16X accelerometer.
-- **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_009-WakeUpDetection:** This application shows how to detect the wake-up event using the LSM6DSV16X accelerometer.
-- **xNucleo-IKS4A1_LSM6DSV16X_mbedOS_010-MachineLearningCore:** This application shows how to detect the activity using the LSM6DSV16X Machine Learning Core.
-- **xNucleo-IKS4A1_LSM6DS1V6X_mbedOS_011-FIFO_Interrupt:** This application shows how to get accelerometer and gyroscope data from FIFO using interrupt and print them on terminal.
+- **[xNucleo-IKS4A1_LSM6DSV16X_mbedOS_001-SensorFusion](https://github.com/Perlatecnica/xNucleo-IKS4A1_LSM6DSV16X_mbedOS_001-SensorFusion):** This application shows how to use LSM6DSV16X Sensor Fusion features for reading quaternions.
+- **[xNucleo-IKS4A1_LSM6DSV16X_mbedOS_002-6D_Orientation](https://github.com/Perlatecnica/xNucleo-IKS4A1_LSM6DSV16X_mbedOS_002-6D_Orientation):** This application shows how to use LSM6DSV16X accelerometer to find out the 6D orientation and display data on a hyperterminal.
+- **[xNucleo-IKS4A1_LSM6DSV16X_mbedOS_003-LSM6DSV16X_Qvar_Polling](https://github.com/Perlatecnica/xNucleo-IKS4A1_LSM6DSV16X_mbedOS_003-Qvar_Polling):** This application shows how to use LSM6DSV16X Qvar features in polling mode.
+- **[xNucleo-IKS4A1_LSM6DSV16X_mbedOS_004-SingleTap](https://github.com/Perlatecnica/xNucleo-IKS4A1_LSM6DSV16X_mbedOS_004-SingleTap):** This application shows how to detect the single tap event using the LSM6DSV16X accelerometer.
+- **[xNucleo-IKS4A1_LSM6DSV16X_mbedOS_005-DoubleTap](https://github.com/Perlatecnica/xNucleo-IKS4A1_LSM6DSV16X_mbedOS_005-DoubleTap):** This application shows how to detect the double tap event using the LSM6DSV16X accelerometer.
+- **[xNucleo-IKS4A1_LSM6DSV16X_mbedOS_006-TiltDetection](https://github.com/Perlatecnica/xNucleo-IKS4A1_LSM6DSV16X_mbedOS_006-TiltDetection):** This application shows how to detect the tilt event using the LSM6DSV16X accelerometer.
+- **[xNucleo-IKS4A1_LSM6DSV16X_mbedOS_007-Pedometer](https://github.com/Perlatecnica/xNucleo-IKS4A1_LSM6DSV16X_mbedOS_007-Pedometer):** This application shows how to use LSM6DSV16X accelerometer to count steps.
+- **[xNucleo-IKS4A1_LSM6DSV16X_mbedOS_008-FreeFallDetection](https://github.com/Perlatecnica/xNucleo-IKS4A1_LSM6DSV16X_mbedOS_008-FreeFallDetection):** This application shows how to detect the free fall event using the LSM6DSV16X accelerometer.
+- **[xNucleo-IKS4A1_LSM6DSV16X_mbedOS_009-WakeUpDetection](https://github.com/Perlatecnica/xNucleo-IKS4A1_LSM6DSV16X_mbedOS_009-WakeUpDetection):** This application shows how to detect the wake-up event using the LSM6DSV16X accelerometer.
+- **[xNucleo-IKS4A1_LSM6DSV16X_mbedOS_010-MachineLearningCore](https://github.com/Perlatecnica/xNucleo-IKS4A1_LSM6DSV16X_mbedOS_010-MachineLearningCore):** This application shows how to detect the activity using the LSM6DSV16X Machine Learning Core.
+- **[xNucleo-IKS4A1_LSM6DS1V6X_mbedOS_011-FIFO_Interrupt](https://github.com/Perlatecnica/xNucleo-IKS4A1_LSM6DSV16X_mbedOS_011-FIFO_Interrupt):** This application shows how to get accelerometer and gyroscope data from FIFO using interrupt and print them on terminal.
 
 
