@@ -8,7 +8,7 @@ The X-NUCLEO-IKS4A1 serves as a supplementary board for motion MEMS and environm
 - **[LIS2MDL 3D magnetometer]**
 - **[SHT40-AD1B humidity and temperature sensor]**
 - **[LPS22DF pressure and temperature sensor]**
-- **[STTS22H temperature sensor]**
+- **[STTS22H temperature sensor](https://github.com/Perlatecnica/xNucleo-IKS4A1_STTS22H_mbedOS_000-GetTemperature)**
 
 ## Official Documentation
 [X-NUCLEO-IKS4A1 Documentation](https://www.st.com/en/ecosystems/x-nucleo-iks4a1.html)
